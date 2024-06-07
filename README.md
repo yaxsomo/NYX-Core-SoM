@@ -56,7 +56,7 @@ Stay up to date with the development by visiting the [Notion] page for the proje
 
 ## License
 
-MIT
+You can check the [LICENSE](https://github.com/yaxsomo/NYX-Core-SoM/blob/main/LICENSE) file for more informations.
 
 **Open-Source, Hell Yeah!**
 
