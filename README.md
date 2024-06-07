@@ -52,7 +52,7 @@ You're ready to go!
 
 ## Development
 
-Stay up to date with the development by visiting the [Notion] page for the project. This page contains everything about the roadmap and project management. 
+Stay up to date with the development by visiting the [Notion](https://www.notion.so/Nyx-Core-SoM-Project-management-a56bd7ae7e154de29fd0a4aed3680350?pvs=4) page for the project. This page contains everything about the roadmap and project management. 
 
 ## License
 
